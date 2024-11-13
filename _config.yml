@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Ameeya's Homepage"
 title_separator          : "-"
-name                     : &name "Ameeya Bhusan Sahoo"
-description              : &description "personal description"
-url                      : https://ameeya_bhusan.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : "Ameeya Bhusan Sahoo"
+description              : "personal description"
+url                      :  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ameeya-bhusan/ameeya_bhusan.github.io"
 
